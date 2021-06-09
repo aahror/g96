@@ -1,0 +1,41 @@
+/* td:hover{
+    color: red;
+}
+
+button:active{
+    color: blue;
+    transform: scale(0.9);
+}
+
+
+tr:first-child{
+    background: red;
+}
+
+tr:last-child{
+    background: red;
+} */
+/* p:nth-child(2):hover{
+    color: coral;
+}
+
+td:nth-child(3){
+    color: red;
+}
+
+td:nth-child(odd){
+    background: rgb(119, 119, 119) */
+}
+
+h1:only-child {
+    color: red;
+}
+
+input {
+    outline: none;
+
+}
+input:invalid {
+    border: 1px solid red;
+    color: red;
+}

@@ -1,0 +1,314 @@
+*{
+    color: white
+}
+
+.vanom1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: linear-gradient(to right top, blue,red,);
+}
+.body{
+    /* padding: 50px 200px; */
+    
+}
+.conteiner{
+    background: linear-gradient(to right top,blue,red,purple);
+    width: 1000px;
+    height: 500px;
+    box-shadow: 10px 10px 5px black;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(55, 32, 65);
+    
+}
+.navbar{
+    display: flex;
+    background-color: rgb(21, 44, 90);
+    /* flex: 1; */
+    height: 60px;
+    align-items: center;
+    
+    
+}
+.items{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    padding: 20px;
+    
+
+}
+.se{
+    margin-left: 10px;
+}
+
+.items1{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: 40px;
+  
+}
+.se1{
+    margin-right: 15px;
+}
+ 
+.img{ 
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 40px;
+}
+.con{
+    flex: 1;
+    
+    
+}
+.cont1{
+    display: flex;
+    padding-top: 10px;
+    
+}
+.con2{
+margin: 0 20px;
+}
+.past{
+    margin-top: 20px;
+}
+.child{
+    background-color:rgb(12, 44, 90);
+}
+
+.box{
+    background-color: rgb(74, 192, 143);
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box1{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.box2{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.box3{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.box4{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.box5{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.br{
+    margin-left: 15px;
+}
+
+.ram1{
+    /* display: flex; */
+    margin-bottom: 20px;
+}
+.ram{
+    
+    text-align: center;
+
+}
+.bet{
+    display: flex;
+    flex-direction: column;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: rgb(65, 192, 143) solid 50px;
+    align-items: center;
+   justify-content: center;
+   margin-left: 80px;
+   
+}
+.net {
+    text-align: center;
+}
+
+.men{
+margin-left: auto;
+}
+.border{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    
+}
+
+.rasm{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    border: rgb(33, 37, 65) solid 2px;
+}
+
+.bol{
+    display: flex;
+}
+.div1{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(44, 44, 90);
+     padding: 30px;
+    
+}
+.man{
+    margin-left:  10px;
+    flex: 1;
+    
+}
+.gul{
+    border-top: yellow solid 2px;
+justify-content: center;
+align-items: center;
+}
+.gul2{
+    border-top: blue solid 2px;
+justify-content: center;
+align-items: center;
+}
+.gul3{
+    border-top: red solid 1px ;
+    background-color: rgb(44, 44, 90);solid 2px;
+justify-content: center;
+align-items: center;
+}
+
+.ul5{
+    padding-bottom: 10px;
+}
+
+.calendar{ 
+    display: flex;
+    background-color:  solid 1px;
+    background-color: red;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+.clun{
+    margin-right: 40xp;
+}
+
+.calendar1{
+    background-color: rgb(209, 47, 47);
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.marg{
+    display: flex;
+    justify-content: center;
+}
+
+.jon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.jom{
+    
+
+}
+.jon1{
+   
+    align-items: center;
+    
+    
+    background-color: rgb(113, 113, 167);
+    margin: 30px 20px;
+    padding: 10px;
+
+}
+.jon2{
+    margin-top: 50px;
+    justify-content: center;
+    display: flex;
+   align-items: center;
+    padding: 10px;
+    margin: 50px 50px;
+    background-color: rgb(74, 192, 143);
+}
+
+
+.sign{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.inpat{  
+    display: flex;
+    background-color: rgb(102, 102, 216);
+    align-items: center;
+    justify-content: center;
+  
+   
+    
+}
+.input{
+    background-color: rgb(102, 102, 216);
+    padding: 30px;
+}
+.itemx1{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(218, 54, 54);
+}
+.itemx2{
+    padding: 30px;
+}
+.asss{
+    text-align: center;
+    color: rgb(102, 102, 216);
+}
+.itemx3{
+    padding: 30px;
+    background-color: rgb(76, 76, 240);
+    color: white;
+    font-size: 20px;
+    
+}
+.ayti1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  
+    flex: 1;
+    background-color: rgb(76, 76, 240);
+}
+
+

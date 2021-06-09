@@ -1,0 +1,90 @@
+*{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.venom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(to right top, yellow, red,blue)
+  
+   
+    
+}
+
+.clas1{
+    position: relative;
+    left: 20px;
+    bottom:5px;
+    top: 10px;
+}
+.cantner{
+    width: 1200px;
+    height: 600px;
+
+}
+
+.contr{
+    
+    position: relative;
+    left: 650px;
+    bottom: 400px;
+    
+    
+   
+}
+.cont{
+    display: flex;
+    margin-left: 300px;
+    position: relative;
+    bottom: 55px;
+    left: 90px;
+    
+
+}
+.con{
+    margin-left: 110px;
+    margin-bottom: 60px ;
+}
+.con1{
+    margin-left: 90px;
+}
+.con2{
+    margin-left: 90px;
+}
+
+.con6{
+    margin-left: 40px;
+}
+
+.lets{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    margin-left: 40px;
+    margin-top: 60px;
+    width: 120px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: purple;
+}   
+
+.sher{
+    margin-left: 1100px;
+    position: relative;
+    top: 85px;
+}
+.nevo{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 70px;
+    
+    
+    
+}
+.iconka1{
+    margin-left: 30px;
+    
+    
+}

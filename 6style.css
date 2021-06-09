@@ -1,0 +1,55 @@
+.main{
+    position: relative;
+    margin: 300px;
+}
+
+.con{
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    color: white;
+    border: 4px solid white;
+    font-size: 35px ;
+    transform: rotate(45deg);
+    background: linear-gradient(
+        135deg,
+     rgba(0, 37, 0, 0.8) 50%,
+     rgba(154,4,47,0.8)50%
+     );  
+}
+.con1{
+    top: -50px; ;
+    left: -150px;
+    background: linear-gradient(
+        135deg,
+     rgba(172, 9, 0, 0.8) 50%,
+     rgba(240,100,139,0.8)50%
+     );  
+}
+.con5{
+    top: -100px;
+    background: linear-gradient(
+        135deg,
+     rgba(7, 253, 7, 0.8) 50%,
+     rgba(56,133,221,0.8)50%
+     );  
+
+
+}
+.con2{
+    top: 100px;
+}
+.con3{
+    right: -200px;
+}
+.con4{
+    top: 50px;
+    right: -100px;
+}
+.con6{
+    width: 100px;
+    height: 100px;
+    left: -50px;
+    top: 100px;
+}

@@ -1,0 +1,31 @@
+*{
+    color: white;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 150 px;
+    background-color: #24252a;
+    border-radius: 8px;
+}
+
+.items{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.txt{
+    font-size: 22px;
+}
+
+.item{
+    margin-right: 100px;
+}
+
+.btn{
+    padding: 8px 20px;
+    border-radius: 20px;
+    background-color:#0486a8 ;
+}
